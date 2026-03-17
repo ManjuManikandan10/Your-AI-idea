@@ -1,7 +1,7 @@
 # Your-AI-idea
 Building AI Course
 
-#Summary
+##Summary
 
 This project aims to create an AI-powered chatbot that acts as a personal companion. It is designed to simulate human-like conversations and provide emotional support, making it useful for people who want someone to talk to anytime.
 
